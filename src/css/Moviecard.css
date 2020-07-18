@@ -1,0 +1,45 @@
+.movieCard-main-wrapper{
+    position: relative;
+    background-color: #1c2d3c;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    overflow: visible;
+    max-width: 258px;
+    width: 25%;
+    min-width: 250px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 370px;
+}
+.movieCard-image{
+    background-color: #14212C;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+}
+.movieCard-top-wrapper {
+    height: 330px;
+    overflow: hidden;
+}
+.movieCard-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    color: #fff;
+    height: 80px;
+    flex-direction: column;
+}
+
+.movieCard-release-year{
+    line-height:1.5;
+    color: #BED0DE;
+}
+label.movieCard-title {
+    margin-bottom: 5px;
+    width: 93%;
+}
