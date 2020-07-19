@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hitesh-niyo-assignment/static/css/main.ea7b077a.chunk.css",
+    "main.js": "/hitesh-niyo-assignment/static/js/main.ee13326f.chunk.js",
+    "main.js.map": "/hitesh-niyo-assignment/static/js/main.ee13326f.chunk.js.map",
+    "runtime-main.js": "/hitesh-niyo-assignment/static/js/runtime-main.af9a1c12.js",
+    "runtime-main.js.map": "/hitesh-niyo-assignment/static/js/runtime-main.af9a1c12.js.map",
+    "static/js/2.ebe23fea.chunk.js": "/hitesh-niyo-assignment/static/js/2.ebe23fea.chunk.js",
+    "static/js/2.ebe23fea.chunk.js.map": "/hitesh-niyo-assignment/static/js/2.ebe23fea.chunk.js.map",
+    "index.html": "/hitesh-niyo-assignment/index.html",
+    "precache-manifest.0bf9110261831eee693994ae96e6bda3.js": "/hitesh-niyo-assignment/precache-manifest.0bf9110261831eee693994ae96e6bda3.js",
+    "service-worker.js": "/hitesh-niyo-assignment/service-worker.js",
+    "static/css/main.ea7b077a.chunk.css.map": "/hitesh-niyo-assignment/static/css/main.ea7b077a.chunk.css.map",
+    "static/js/2.ebe23fea.chunk.js.LICENSE.txt": "/hitesh-niyo-assignment/static/js/2.ebe23fea.chunk.js.LICENSE.txt",
+    "static/media/no-results.png": "/hitesh-niyo-assignment/static/media/no-results.4ae84619.png",
+    "static/media/no-results.gif": "/hitesh-niyo-assignment/static/media/no-results.f45d0b0f.gif",
+    "static/media/placeholer.jpg": "/hitesh-niyo-assignment/static/media/placeholer.bb182cd1.jpg",
+    "static/media/search.svg": "/hitesh-niyo-assignment/static/media/search.154d2a4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9a1c12.js",
+    "static/js/2.ebe23fea.chunk.js",
+    "static/css/main.ea7b077a.chunk.css",
+    "static/js/main.ee13326f.chunk.js"
+  ]
+}
