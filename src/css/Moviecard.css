@@ -1,0 +1,93 @@
+.movieCard-main-wrapper{
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    overflow: visible;
+    max-width: 300px;
+    width: 25%;
+    min-width: 250px;
+    margin: 10px;
+    cursor: pointer;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 300px;
+}
+.movieCard-image{
+    background-color: #14212C;
+    /* border-radius: 6px; */
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 100%;
+    height: 100%;
+}
+.movieCard-top-wrapper {
+    height: 180px;
+    overflow: hidden;
+}
+.movieCard-bottom-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    color: #fff;
+    height: 80px;
+    flex-direction: column;
+}
+
+label.movieCard-type{
+    background-color: blanchedalmond;
+    margin-bottom: 5px;
+    padding: 2px 10px 2px 10px;
+    color: black;
+    font-size: 14px;
+    border-radius: 4px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+}
+
+label.movieCard-title {
+    margin-top: 5px;
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.movieCard-release-year{
+    line-height:1.5;
+    /* color: #BED0DE; */
+    color: rgb(66, 66, 66);
+    margin-top: 2px;
+    font-size: 12px;
+}
+.movieCard-fav-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+.fav-icon{
+    width: 20px;
+    height: 20px;
+}
+.heart{
+    fill: #000;
+    position: relative;
+    cursor: pointer;
+}
+.selected-heart{
+fill:#fff !important;
+position: relative;
+cursor: pointer;
+}
+svg:not([fill]) {
+	fill: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+    .movieCard-main-wrapper{
+        width: 100%;
+    }
+}
